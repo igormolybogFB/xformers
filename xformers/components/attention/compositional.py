@@ -29,7 +29,7 @@ from xformers.components.attention import (
     register_attention,
 )
 from xformers.components.attention.core import _softmax
-from xformers.components.in_proj_container import InProjContainer, InProjParams
+from xformers.components.input_projection import InProjContainer, InProjParams
 
 
 def _either_or(a: Optional[int], b: int) -> int:

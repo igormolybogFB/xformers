@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed dupliacated biases in the FusedMLP layers [#317]
 
 ### Added
+- Support several initialization options [#312]
+
 
 ## [0.0.11] - 2022-05-30
 ### Fixed

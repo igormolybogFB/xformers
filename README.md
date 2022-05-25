@@ -249,3 +249,4 @@ The following repositories are used in xFormers, either in close to original for
 * [RevTorch](https://github.com/RobinBruegger/RevTorch)
 * [Nystromformer](https://github.com/mlpen/Nystromformer)
 * [FairScale](https://github.com/facebookresearch/fairscale/)
+* [Pytorch Image Models](https://github.com/rwightman/pytorch-image-models)
